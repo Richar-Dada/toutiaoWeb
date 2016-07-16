@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffc000;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="finance_channel.svg" class="cls-1" d="M416,438a1,1,0,0,1-1,1h-3v2h3a1,1,0,0,1,0,2h-3v2a1,1,0,0,1-2,0v-2h-3a1,1,0,0,1,0-2h3v-2h-3a1,1,0,0,1,0-2h1.732l-2.478-2.478a0.9,0.9,0,0,1,1.278-1.278L411,436.712l3.44-3.44a0.9,0.9,0,0,1,1.278,1.278L413.269,437H415A1,1,0,0,1,416,438Zm-5-9a10,10,0,1,1-10,10A10,10,0,0,1,411,429Z" transform="translate(-401 -429)"/>
+</svg>

@@ -1,0 +1,28 @@
+<div class="news-list" ng-controller="channelController">
+	<div class="news-item clearfix" ng-repeat='item in data'>
+		<a ng-href="{{ item.display_url }}">
+			<div class="img-box " ng-if="item.middle_image.url || item.middle_image">
+			<img ng-src="{{ item.middle_image.url || item.middle_image }}">
+		</div>
+		</a>
+		<div class="news-info">
+			<a ng-href="{{ item.display_url }}">
+			<h2>{{ item.title }}</h2>
+			</a>
+			<p>{{ item.abstract }}</p>
+			<div class="news-footer clearfix">
+				<div class="news-footer-left fl">
+					<span>热</span>
+					<span>{{ item.source }} -</span>
+					<span>4小时前</span>
+				</div>
+				<div class="news-footer-right fr">
+					<span class="cancelBtn" ng-click="hide($event)"></span>
+				</div>
+			</div>
+		</div>
+		
+		
+	</div>
+	
+</div>

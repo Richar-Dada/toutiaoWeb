@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 20 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2fd38f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="social_channel.svg" class="cls-1" d="M420,211h-8a1.173,1.173,0,0,1-1-1v-1h-6v4c0,0.244.247,1-.667,1h-0.889a0.446,0.446,0,0,1-.444-0.444V199.444a0.446,0.446,0,0,1,.444-0.444H413a1.037,1.037,0,0,1,1,1v2h6a1.01,1.01,0,0,1,1,1v7A1.078,1.078,0,0,1,420,211Zm-13,5a1,1,0,0,1-1,1h-4a1,1,0,0,1,0-2h4A1,1,0,0,1,407,216Z" transform="translate(-401 -199)"/>
+</svg>
